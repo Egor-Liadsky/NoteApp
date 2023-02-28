@@ -1,0 +1,349 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [:shared] /home/egor.lyadsky/StudioProjects/NoteApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/1dfc6fee0c4b214432540a518a5e4788/transformed/koin-androidx-compose-3.4.1/AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/a2e49fd371a25b0940ff7a53b975b7a1/transformed/koin-android-3.3.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.sqldelight:android-driver:1.5.5] /home/egor.lyadsky/.gradle/caches/transforms-3/a7f6e77a0357f0ea11170cbb1057126c/transformed/android-driver-1.5.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.navigation:navigation-compose:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/740b0f6af8e6bcdac1b96b218ff938d0/transformed/navigation-compose-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/7328cfe7cd18663f1e40c97dc0b3f632/transformed/activity-compose-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] /home/egor.lyadsky/.gradle/caches/transforms-3/95197aeaf5f2650d283e362027c4f4dc/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e291401a0911c12c4cd74f1c991c6364/transformed/material-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/3710454ae8bf77a22d97e1be480c4cb2/transformed/material-ripple-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/c4283842e55df2ec8ca58576dd458e92/transformed/foundation-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/5966630b768840f8a5a81e3007656f9b/transformed/animation-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/6d7fd2b64103f53ffdbae4534404f4fb/transformed/ui-tooling-data-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/05b7ca4ed257549ccd7dcdcb7c728c91/transformed/foundation-layout-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/544bff23c437c2778043a48a4695f09c/transformed/material-icons-core-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e25a1a19f4470e21b9f48a10be9c54ea/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/089c3aa26ca2abfedc873bdbfb5de3ab/transformed/animation-core-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/180d7a408635b514d58c1034baf690c0/transformed/ui-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/b8549f11c01d92b39c7f08b381450094/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/21f5f5cb37d281b03c3da79412d84b99/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.3] /home/egor.lyadsky/.gradle/caches/transforms-3/0c2b4c1f319e9af744dff7d31487d885/transformed/fragment-1.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/24a7b0f01e2fe4e2fa035cdae366a570/transformed/activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/e78876f4b1f7ee219c758ce1984d962d/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/20b22a8186f3c6d8da2b64f012aa1ab9/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/a30485e5763ffc45960b5ba5ae690746/transformed/activity-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/f420d32aef1a04e0035a748855892f7f/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/ed1dd9cfcacc2720b4c6e4b325cb1d8f/transformed/navigation-common-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/aa1c234b2e089826c79d7e0e7af1560a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/c0532f6ae2d86100b3eafc5c01cf6ef6/transformed/ui-tooling-preview-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/1fe08f57276e50997d515c3eaf394e7a/transformed/ui-text-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/cb29f870be110734dccb49c12b7e2a84/transformed/runtime-saveable-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/85e063de1f567dcbfe4e03d6d49e38a3/transformed/ui-graphics-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/1afaec9f37ef4c77600b838650fd0e90/transformed/ui-unit-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/710b50c666cd1c418cf90747d4a29343/transformed/ui-geometry-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/c03b887f07dfa5f430ce57ec3e3ab10f/transformed/runtime-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/968814d9860f5f67a9687d71a8735e31/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/07c85711b1efaa40f56311b380f0224b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/5a1625411058ab24a0bde92c1c3ea217/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/99f02c0fa917d8cacff7c4907b6734d7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/f90e9455424ebb2c1ad7862230bbdbf1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/b6a9b3a52c6f7088282de956d88c17d9/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/5fbf9dfa469f9bb56c20657b704339e7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/e3bafef460b99a8bc0282ece8ef6bf26/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e59dfdffbf75207d76880298454905d3/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/77edb7dd7d8b644135b2c3db8626fe24/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/c31d06fbdd2f33351acb4a7574a8c5fb/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/2bc65c50eec3561f3097069c76393bcf/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a587bdf2e019f0aaf62098be5018ce52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/e25cb999b5f58436421e0e19a1a2d4b9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/eabf9a1d50949b1240c54425fbeb9b41/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/f358bbf9e6239de946c95216037dab78/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/baae4c1721ee5c3af25259f4afb7abfb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/997fa1b71f56abae9cf176d64a002a5d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f61048aaaa4aefbfc2b6b04bffcb0855/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/fa8d63cd29584e4272f1c186175a3ff6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/405f325a8d0025719670f28c0d504f59/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/98f73734c16b4dfdceb2a0e577c9048b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/452ee8dc938424ca5651e578fb075719/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/9c34ff35d3f12f431d9c7ddab2117902/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/54bf59c7f204fa8014f210c3389af354/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/eac02cbbd42b51e4dc140e61bef8ee04/transformed/ui-util-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/1021598e4bc454449e533aa88c166387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:4:5-17:19
+MERGED from [io.insert-koin:koin-android:3.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/a2e49fd371a25b0940ff7a53b975b7a1/transformed/koin-android-3.3.2/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/a2e49fd371a25b0940ff7a53b975b7a1/transformed/koin-android-3.3.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:8:9-40
+	android:name
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:5:9-28
+activity#com.lyadsky.noteapp.android.MainActivity
+ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /home/egor.lyadsky/StudioProjects/NoteApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /home/egor.lyadsky/StudioProjects/NoteApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/1dfc6fee0c4b214432540a518a5e4788/transformed/koin-androidx-compose-3.4.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/1dfc6fee0c4b214432540a518a5e4788/transformed/koin-androidx-compose-3.4.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/a2e49fd371a25b0940ff7a53b975b7a1/transformed/koin-android-3.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/a2e49fd371a25b0940ff7a53b975b7a1/transformed/koin-android-3.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.sqldelight:android-driver:1.5.5] /home/egor.lyadsky/.gradle/caches/transforms-3/a7f6e77a0357f0ea11170cbb1057126c/transformed/android-driver-1.5.5/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.sqldelight:android-driver:1.5.5] /home/egor.lyadsky/.gradle/caches/transforms-3/a7f6e77a0357f0ea11170cbb1057126c/transformed/android-driver-1.5.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/740b0f6af8e6bcdac1b96b218ff938d0/transformed/navigation-compose-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/740b0f6af8e6bcdac1b96b218ff938d0/transformed/navigation-compose-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/7328cfe7cd18663f1e40c97dc0b3f632/transformed/activity-compose-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/7328cfe7cd18663f1e40c97dc0b3f632/transformed/activity-compose-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] /home/egor.lyadsky/.gradle/caches/transforms-3/95197aeaf5f2650d283e362027c4f4dc/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] /home/egor.lyadsky/.gradle/caches/transforms-3/95197aeaf5f2650d283e362027c4f4dc/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e291401a0911c12c4cd74f1c991c6364/transformed/material-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e291401a0911c12c4cd74f1c991c6364/transformed/material-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/3710454ae8bf77a22d97e1be480c4cb2/transformed/material-ripple-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/3710454ae8bf77a22d97e1be480c4cb2/transformed/material-ripple-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/c4283842e55df2ec8ca58576dd458e92/transformed/foundation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/c4283842e55df2ec8ca58576dd458e92/transformed/foundation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/5966630b768840f8a5a81e3007656f9b/transformed/animation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/5966630b768840f8a5a81e3007656f9b/transformed/animation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/6d7fd2b64103f53ffdbae4534404f4fb/transformed/ui-tooling-data-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/6d7fd2b64103f53ffdbae4534404f4fb/transformed/ui-tooling-data-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/05b7ca4ed257549ccd7dcdcb7c728c91/transformed/foundation-layout-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/05b7ca4ed257549ccd7dcdcb7c728c91/transformed/foundation-layout-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/544bff23c437c2778043a48a4695f09c/transformed/material-icons-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/544bff23c437c2778043a48a4695f09c/transformed/material-icons-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e25a1a19f4470e21b9f48a10be9c54ea/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e25a1a19f4470e21b9f48a10be9c54ea/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/089c3aa26ca2abfedc873bdbfb5de3ab/transformed/animation-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/089c3aa26ca2abfedc873bdbfb5de3ab/transformed/animation-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/180d7a408635b514d58c1034baf690c0/transformed/ui-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/180d7a408635b514d58c1034baf690c0/transformed/ui-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/b8549f11c01d92b39c7f08b381450094/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/b8549f11c01d92b39c7f08b381450094/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/21f5f5cb37d281b03c3da79412d84b99/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/21f5f5cb37d281b03c3da79412d84b99/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.3] /home/egor.lyadsky/.gradle/caches/transforms-3/0c2b4c1f319e9af744dff7d31487d885/transformed/fragment-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] /home/egor.lyadsky/.gradle/caches/transforms-3/0c2b4c1f319e9af744dff7d31487d885/transformed/fragment-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/24a7b0f01e2fe4e2fa035cdae366a570/transformed/activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/24a7b0f01e2fe4e2fa035cdae366a570/transformed/activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/e78876f4b1f7ee219c758ce1984d962d/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/e78876f4b1f7ee219c758ce1984d962d/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/20b22a8186f3c6d8da2b64f012aa1ab9/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/20b22a8186f3c6d8da2b64f012aa1ab9/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/a30485e5763ffc45960b5ba5ae690746/transformed/activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /home/egor.lyadsky/.gradle/caches/transforms-3/a30485e5763ffc45960b5ba5ae690746/transformed/activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/f420d32aef1a04e0035a748855892f7f/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/f420d32aef1a04e0035a748855892f7f/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/ed1dd9cfcacc2720b4c6e4b325cb1d8f/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] /home/egor.lyadsky/.gradle/caches/transforms-3/ed1dd9cfcacc2720b4c6e4b325cb1d8f/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/aa1c234b2e089826c79d7e0e7af1560a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/aa1c234b2e089826c79d7e0e7af1560a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/c0532f6ae2d86100b3eafc5c01cf6ef6/transformed/ui-tooling-preview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/c0532f6ae2d86100b3eafc5c01cf6ef6/transformed/ui-tooling-preview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/1fe08f57276e50997d515c3eaf394e7a/transformed/ui-text-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/1fe08f57276e50997d515c3eaf394e7a/transformed/ui-text-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/cb29f870be110734dccb49c12b7e2a84/transformed/runtime-saveable-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/cb29f870be110734dccb49c12b7e2a84/transformed/runtime-saveable-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/85e063de1f567dcbfe4e03d6d49e38a3/transformed/ui-graphics-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/85e063de1f567dcbfe4e03d6d49e38a3/transformed/ui-graphics-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/1afaec9f37ef4c77600b838650fd0e90/transformed/ui-unit-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/1afaec9f37ef4c77600b838650fd0e90/transformed/ui-unit-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/710b50c666cd1c418cf90747d4a29343/transformed/ui-geometry-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/710b50c666cd1c418cf90747d4a29343/transformed/ui-geometry-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/c03b887f07dfa5f430ce57ec3e3ab10f/transformed/runtime-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/c03b887f07dfa5f430ce57ec3e3ab10f/transformed/runtime-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/968814d9860f5f67a9687d71a8735e31/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/968814d9860f5f67a9687d71a8735e31/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/07c85711b1efaa40f56311b380f0224b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/07c85711b1efaa40f56311b380f0224b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/5a1625411058ab24a0bde92c1c3ea217/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/5a1625411058ab24a0bde92c1c3ea217/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/99f02c0fa917d8cacff7c4907b6734d7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/99f02c0fa917d8cacff7c4907b6734d7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/f90e9455424ebb2c1ad7862230bbdbf1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/f90e9455424ebb2c1ad7862230bbdbf1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/b6a9b3a52c6f7088282de956d88c17d9/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/b6a9b3a52c6f7088282de956d88c17d9/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/5fbf9dfa469f9bb56c20657b704339e7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/5fbf9dfa469f9bb56c20657b704339e7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/e3bafef460b99a8bc0282ece8ef6bf26/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/e3bafef460b99a8bc0282ece8ef6bf26/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e59dfdffbf75207d76880298454905d3/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/e59dfdffbf75207d76880298454905d3/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/77edb7dd7d8b644135b2c3db8626fe24/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/77edb7dd7d8b644135b2c3db8626fe24/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/c31d06fbdd2f33351acb4a7574a8c5fb/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/c31d06fbdd2f33351acb4a7574a8c5fb/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/2bc65c50eec3561f3097069c76393bcf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/2bc65c50eec3561f3097069c76393bcf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a587bdf2e019f0aaf62098be5018ce52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a587bdf2e019f0aaf62098be5018ce52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/e25cb999b5f58436421e0e19a1a2d4b9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/e25cb999b5f58436421e0e19a1a2d4b9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/eabf9a1d50949b1240c54425fbeb9b41/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/eabf9a1d50949b1240c54425fbeb9b41/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/f358bbf9e6239de946c95216037dab78/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/f358bbf9e6239de946c95216037dab78/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/egor.lyadsky/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/baae4c1721ee5c3af25259f4afb7abfb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/baae4c1721ee5c3af25259f4afb7abfb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/997fa1b71f56abae9cf176d64a002a5d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/997fa1b71f56abae9cf176d64a002a5d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f61048aaaa4aefbfc2b6b04bffcb0855/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f61048aaaa4aefbfc2b6b04bffcb0855/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/fa8d63cd29584e4272f1c186175a3ff6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/fa8d63cd29584e4272f1c186175a3ff6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/405f325a8d0025719670f28c0d504f59/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/405f325a8d0025719670f28c0d504f59/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/98f73734c16b4dfdceb2a0e577c9048b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/98f73734c16b4dfdceb2a0e577c9048b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/452ee8dc938424ca5651e578fb075719/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/452ee8dc938424ca5651e578fb075719/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/9c34ff35d3f12f431d9c7ddab2117902/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/9c34ff35d3f12f431d9c7ddab2117902/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/54bf59c7f204fa8014f210c3389af354/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egor.lyadsky/.gradle/caches/transforms-3/54bf59c7f204fa8014f210c3389af354/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/eac02cbbd42b51e4dc140e61bef8ee04/transformed/ui-util-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.2] /home/egor.lyadsky/.gradle/caches/transforms-3/eac02cbbd42b51e4dc140e61bef8ee04/transformed/ui-util-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/1021598e4bc454449e533aa88c166387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/egor.lyadsky/.gradle/caches/transforms-3/1021598e4bc454449e533aa88c166387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/egor.lyadsky/StudioProjects/NoteApp/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.1] /home/egor.lyadsky/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/egor.lyadsky/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/51b2a5e9772e2148cc913c9237942f79/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/egor.lyadsky/.gradle/caches/transforms-3/63a2be2f8b676f2b1159a4b356acc691/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/egor.lyadsky/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

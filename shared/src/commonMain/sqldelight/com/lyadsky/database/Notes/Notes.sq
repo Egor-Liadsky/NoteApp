@@ -1,0 +1,19 @@
+CREATE TABLE Notes (
+id INTEGER NOT NULL PRIMARY KEY,
+title TEXT NOT NULL,
+description TEXT NOT NULL
+);
+
+getAllNotes:
+SELECT * FROM Notes;
+
+getNotes:
+SELECT * FROM Notes WHERE id = ?;
+
+insertNote:
+INSERT INTO Notes (id, title, description)
+VALUES (?, ?, ?);
+
+deleteNote:
+DELETE FROM Notes
+WHERE id = ?;
